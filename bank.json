@@ -7,7 +7,7 @@
         "mrr": 7.05, 
         "maxYear": 30,
         "logo": "bbl.svg",
-        "ur": "https://www.bangkokbank.com",
+        "website": "https://www.bangkokbank.com",
         "dateModified": "31-08-2023",
         "color": "#2969b0"
     },
@@ -19,7 +19,7 @@
         "mrr": 7.32, 
         "maxYear": 40,
         "logo": "ktb.svg",
-        "ur": "https://krungthai.com",
+        "website": "https://krungthai.com",
         "dateModified": "31-08-2023",
         "color": "#3cbdea"
     },
@@ -31,7 +31,7 @@
         "mrr": 7.05, 
         "maxYear": 30,
         "logo": "kbank.svg",
-        "ur": "https://www.kasikornbank.com",
+        "website": "https://www.kasikornbank.com",
         "dateModified": "31-08-2023",
         "color": "#00a950"
     },
@@ -43,7 +43,7 @@
         "mrr": 7.05, 
         "maxYear": 30,
         "logo": "scb.svg",
-        "ur": "https://www.scb.co.th",
+        "website": "https://www.scb.co.th",
         "dateModified": "31-08-2023",
         "color": "#7a58bf"
     },
@@ -55,7 +55,7 @@
         "mrr": 7.15, 
         "maxYear": 30,
         "logo": "bay.svg",
-        "ur": "https://www.krungsri.com",
+        "website": "https://www.krungsri.com",
         "dateModified": "31-08-2023",
         "color": "#ffd400"
     },
@@ -67,7 +67,7 @@
         "mrr": 7.58, 
         "maxYear": 30,
         "logo": "ttb.svg",
-        "ur": "https://www.ttbbank.com",
+        "website": "https://www.ttbbank.com",
         "dateModified": "31-08-2023",
         "color": "#0050f0"
     },
@@ -79,7 +79,7 @@
         "mrr": 6.995, 
         "maxYear": 40,
         "logo": "gsb.svg",
-        "ur": "https://www.gsb.or.th",
+        "website": "https://www.gsb.or.th",
         "dateModified": "31-08-2023",
         "color": "#ec008c"
     },
@@ -91,7 +91,7 @@
         "mrr": 6.9, 
         "maxYear": 40,
         "logo": "ghb.svg",
-        "ur": "https://www.ghbank.co.th",
+        "website": "https://www.ghbank.co.th",
         "dateModified": "31-08-2023",
         "color": "#ff850d"
     },
@@ -103,7 +103,7 @@
         "mrr": 8.55, 
         "maxYear": 30,
         "logo": "uob.svg",
-        "ur": "https://www.uob.co.th",
+        "website": "https://www.uob.co.th",
         "dateModified": "31-08-2023",
         "color": "#007bff"
     },
@@ -115,7 +115,7 @@
         "mrr": 8.85, 
         "maxYear": 30,
         "logo": "cimb.svg",
-        "ur": "https://www.cimbthai.com",
+        "website": "https://www.cimbthai.com",
         "dateModified": "31-08-2023",
         "color": "#ff0000"
     },
@@ -127,7 +127,7 @@
         "mrr": 8.35, 
         "maxYear": 30,
         "logo": "lhb.png",
-        "ur": "https://www.lhbank.co.th",
+        "website": "https://www.lhbank.co.th",
         "dateModified": "31-08-2023",
         "color": "#c0b300"
     }
