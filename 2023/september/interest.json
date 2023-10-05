@@ -1,51 +1,5 @@
 [
     {
-        "id": "3",
-        "bankId": "006",
-        "interest": "mrr",
-        "interestFirstYear": {
-            "type": "fixed",
-            "value": 2.75
-        },
-        "interestSecondYear": {
-            "type": "floating",
-            "value": 3.93
-        },
-        "interestThridYear": {
-            "type": "floating",
-            "value": 3.93
-        },
-        "interestOtherYear": {
-            "type": "floating",
-            "value": 2.23
-        },
-        "description": "ผ่อนได้ยาวสูงสุด 35 ปี วงเงินสูงสุด 50 ล้านบาท ฟรี! ค่าเบี้ยประกันอัคคีภัย-ค่าประเมินหลักทรัพย์",
-        "dateModified": "05-10-2023"
-    },
-    {
-        "id": "4",
-        "bankId": "002",
-        "interest": "mrr",
-        "interestFirstYear": {
-            "type": "fixed",
-            "value": 2.5
-        },
-        "interestSecondYear": {
-            "type": "floating",
-            "value": 3.3
-        },
-        "interestThridYear": {
-            "type": "floating",
-            "value": 3.3
-        },
-        "interestOtherYear": {
-            "type": "floating",
-            "value": 1.25
-        },
-        "description": "วงเงินกู้สูงสุด 100% ผ่อนนานสูงสุด 40 ปี",
-        "dateModified": "05-10-2023"
-    },
-    {
         "id": "1",
         "bankId": "008",
         "interest": "mrr",
@@ -66,7 +20,7 @@
             "value": 0.50
         },
         "description": "วงเงินให้กู้สูงสุดไม่เกิน 2,500,000 บาทต่อรายต่อหลักประกัน ระยะเวลาผ่อน ไม่น้อยกว่า 3 ปี และไม่เกิน 40 ปี อายุผู้กู้รวมกับระยะเวลาที่ขอกู้ต้องไม่เกิน 70 ปี",
-        "dateModified": "05-10-2023"
+        "dateModified": "02-09-2023"
     },
     {
         "id": "2",
@@ -89,7 +43,53 @@
             "value": 1.5
         },
         "description": "วงเงินกู้สูงสุด 95% ของราคาประเมิน ผ่อนชำระได้นานสูงสุดถึง 30 ปี (ระยะเวลาผ่อนชำระรวมกับอายุผู้กู้แล้วต้องไม่เกิน 65 ปี)",
-        "dateModified": "05-10-2023"
+        "dateModified": "02-09-2023"
+    },
+    {
+        "id": "3",
+        "bankId": "006",
+        "interest": "mrr",
+        "interestFirstYear": {
+            "type": "fixed",
+            "value": 2.75
+        },
+        "interestSecondYear": {
+            "type": "floating",
+            "value": 3.93
+        },
+        "interestThridYear": {
+            "type": "floating",
+            "value": 3.93
+        },
+        "interestOtherYear": {
+            "type": "floating",
+            "value": 2.23
+        },
+        "description": "ผ่อนได้ยาวสูงสุด 35 ปี วงเงินสูงสุด 50 ล้านบาท ฟรี! ค่าเบี้ยประกันอัคคีภัย-ค่าประเมินหลักทรัพย์",
+        "dateModified": "02-09-2023"
+    },
+    {
+        "id": "4",
+        "bankId": "002",
+        "interest": "mrr",
+        "interestFirstYear": {
+            "type": "floating",
+            "value": 3.5
+        },
+        "interestSecondYear": {
+            "type": "floating",
+            "value": 3.5
+        },
+        "interestThridYear": {
+            "type": "floating",
+            "value": 3.5
+        },
+        "interestOtherYear": {
+            "type": "floating",
+            "value": 1.25
+        },
+        "description": "วงเงินกู้สูงสุด 100% ผ่อนนานสูงสุด 40 ปี",
+        "dateModified": "02-09-2023"
     },
     {
         "id": "5",
@@ -112,7 +112,7 @@
             "value": 0.750
         },
         "description": "วงเงินกู้รวมสูงสุด 110% ของราคาประเมินหลักทรัพย์ ผ่อนชำระได้นานสูงสุด 40 ปี",
-        "dateModified": "05-10-2023"
+        "dateModified": "02-09-2023"
     },
     {
         "id": "6",
@@ -135,7 +135,7 @@
             "value": 1.40
         },
         "description": "อนุมัติวงเงินไม่เกิน 100% ของราคาประเมิน ผ่อนชำระเป็นรายเดือนได้นานสูงสุด 30 ปี",
-        "dateModified": "05-10-2023"
+        "dateModified": "02-09-2023"
     },
     {
         "id": "7",
@@ -158,7 +158,7 @@
             "value": 2.86
         },
         "description": "อนุมัติวงเงินสูงสุด 100% ของราคาประเมินหลักประกัน ระยะเวลากู้สูงสุด 35 ปี (รวมอายุผู้กู้ไม่เกิน 65 ปี)",
-        "dateModified": "05-10-2023"
+        "dateModified": "02-09-2023"
     }
 
 ]
