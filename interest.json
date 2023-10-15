@@ -1,5 +1,97 @@
 [
     {
+        "id": "11",
+        "bankId": "010",
+        "interest": "mrr",
+        "interestFirstYear": {
+            "type": "floating",
+            "value": 6.06
+        },
+        "interestSecondYear": {
+            "type": "floating",
+            "value": 5.31
+        },
+        "interestThridYear": {
+            "type": "floating",
+            "value": 5.31
+        },
+        "interestOtherYear": {
+            "type": "floating",
+            "value": 2.05
+        },
+        "description": "วงเงินกู้สูงสุด 100% ของราคาประเมินหลักประกัน ผ่อนสบายนานสูงสุด 35 ปี",
+        "dateModified": "15-10-2023"
+    },
+    {
+        "id": "10",
+        "bankId": "004",
+        "interest": "mrr",
+        "interestFirstYear": {
+            "type": "fixed",
+            "value": 5.525
+        },
+        "interestSecondYear": {
+            "type": "fixed",
+            "value": 5.525
+        },
+        "interestThridYear": {
+            "type": "fixed",
+            "value": 5.525
+        },
+        "interestOtherYear": {
+            "type": "floating",
+            "value": 0.72
+        },
+        "description": "วงเงินกู้สูงสุด 100% ของราคาประเมินหลักประกัน ผ่อนสบายนานสูงสุด 30 ปี",
+        "dateModified": "15-10-2023"
+    },
+    {
+        "id": "9",
+        "bankId": "001",
+        "interest": "mrr",
+        "interestFirstYear": {
+            "type": "floating",
+            "value": 4.45
+        },
+        "interestSecondYear": {
+            "type": "floating",
+            "value": 2.45
+        },
+        "interestThridYear": {
+            "type": "floating",
+            "value": 2.45
+        },
+        "interestOtherYear": {
+            "type": "floating",
+            "value": 1.5
+        },
+        "description": "ฟรีค่ำสำรวจและประเมินหลักประกัน สูงสุด 100% ของมูลค่าหลักประกัน นานสูงสุด 30 ปี(เฉพาะพนักงานประจำ สูงสุด 35 ปี) รวมอายุผู้กู้สูงสุด 65 ปี",
+        "dateModified": "15-10-2023"
+    },
+    {
+        "id": "8",
+        "bankId": "003",
+        "interest": "mrr",
+        "interestFirstYear": {
+            "type": "floating",
+            "value": 3.15
+        },
+        "interestSecondYear": {
+            "type": "floating",
+            "value": 3.15
+        },
+        "interestThridYear": {
+            "type": "floating",
+            "value": 3.15
+        },
+        "interestOtherYear": {
+            "type": "floating",
+            "value": 1.0
+        },
+        "description": "สินเชื่อบ้าน รีไฟแนนซ์ สำหรับลูกค้ารายได้สูง หรือ มีบ้านอยู่ในโครงการที่เป็นพันธมิตรของธนาคาร ผ่อนชำระสูงสุดไม่เกิน 30 ปี รวมอายุผู้กู้สูงสุดไม่เกิน 70 ปี",
+        "dateModified": "15-10-2023"
+    },
+    {
         "id": "3",
         "bankId": "006",
         "interest": "mrr",
