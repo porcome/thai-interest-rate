@@ -8,19 +8,19 @@
         "maxYear": 30,
         "logo": "bbl.svg",
         "website": "https://www.bangkokbank.com/th-TH/Personal/My-Home/Home-Loan/Loans-for-General-Customers",
-        "dateModified": "10-11-2023",
+        "dateModified": "31-08-2023",
         "color": "#2969b0"
     },
     {
         "id": "002",
         "name": "กรุงไทย",
-        "mor": 7.52,
-        "mlr": 7.05,
-        "mrr": 7.57, 
+        "mor": 7.27,
+        "mlr": 6.8,
+        "mrr": 7.32, 
         "maxYear": 40,
         "logo": "ktb.svg",
         "website": "https://krungthai.com/th/personal/loan/housing-loan",
-        "dateModified": "10-11-2023",
+        "dateModified": "31-08-2023",
         "color": "#3cbdea"
     },
     {
@@ -32,7 +32,7 @@
         "maxYear": 30,
         "logo": "kbank.svg",
         "website": "https://www.kasikornbank.com/th/personal/Loan/HomeLoan/Pages/Home.aspx",
-        "dateModified": "10-11-2023",
+        "dateModified": "31-08-2023",
         "color": "#00a950"
     },
     {
@@ -44,19 +44,19 @@
         "maxYear": 30,
         "logo": "scb.svg",
         "website": "https://www.scb.co.th/th/personal-banking/loans/home-loans.html",
-        "dateModified": "10-11-2023",
+        "dateModified": "31-08-2023",
         "color": "#7a58bf"
     },
     {
         "id": "005",
         "name": "กรุงศรีอยุธยา",
-        "mor": 7.575,
-        "mlr": 7.28,
-        "mrr": 7.4, 
+        "mor": 7.325,
+        "mlr": 7.03,
+        "mrr": 7.15, 
         "maxYear": 30,
         "logo": "bay.svg",
         "website": "https://www.krungsri.com/th/personal/loans/home-loans",
-        "dateModified": "10-11-2023",
+        "dateModified": "31-08-2023",
         "color": "#ffd400"
     },
     {
@@ -68,7 +68,7 @@
         "maxYear": 30,
         "logo": "ttb.svg",
         "website": "https://www.ttbbank.com/th/personal/loans/home-loan",
-        "dateModified": "10-11-2023",
+        "dateModified": "31-08-2023",
         "color": "#0050f0"
     },
     {
@@ -80,7 +80,7 @@
         "maxYear": 40,
         "logo": "gsb.svg",
         "website": "https://www.gsb.or.th/personal/homeloan",
-        "dateModified": "10-11-2023",
+        "dateModified": "31-08-2023",
         "color": "#ec008c"
     },
     {
@@ -92,43 +92,43 @@
         "maxYear": 40,
         "logo": "ghb.svg",
         "website": "https://www.ghbank.co.th/product-detail/ghbank-sansook",
-        "dateModified": "10-11-2023",
+        "dateModified": "31-08-2023",
         "color": "#ff850d"
     },
     {
         "id": "009",
         "name": "ยูโอบี",
         "mor": 8.35,
-        "mlr": 8.25,
+        "mlr": 8.35,
         "mrr": 8.8, 
         "maxYear": 30,
         "logo": "uob.svg",
         "website": "https://www.uob.co.th/homeloan",
-        "dateModified": "10-11-2023",
+        "dateModified": "31-08-2023",
         "color": "#007bff"
     },
     {
         "id": "010",
         "name": "ซีไอเอ็มบี ไทย",
-        "mor": 8.75,
-        "mlr": 8.35,
-        "mrr": 9.25, 
+        "mor": 8.5,
+        "mlr": 8.1,
+        "mrr": 8.85, 
         "maxYear": 35,
         "logo": "cimb.svg",
         "website": "https://www.cimbthai.com/th/personal/products/loans/home-loan.html",
-        "dateModified": "10-11-2023",
+        "dateModified": "31-08-2023",
         "color": "#ff0000"
     },
     {
         "id": "011",
         "name": "แลนด์ แอนด์ เฮ้าส์",
-        "mor": 8.45,
-        "mlr": 8.075,
-        "mrr": 8.8, 
+        "mor": 8.2,
+        "mlr": 7.825,
+        "mrr": 8.55, 
         "maxYear": 30,
         "logo": "lhb.svg",
         "website": "https://www.lhbank.co.th/th/personal/loans/refinance",
-        "dateModified": "10-11-2023",
+        "dateModified": "31-08-2023",
         "color": "#c0b300"
     }
 ]
