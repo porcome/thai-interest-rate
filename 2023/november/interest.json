@@ -1,28 +1,5 @@
 [
     {
-        "id": "4",
-        "bankId": "002",
-        "interest": "mrr",
-        "interestFirstYear": {
-            "type": "fixed",
-            "value": 3.42
-        },
-        "interestSecondYear": {
-            "type": "fixed",
-            "value": 3.42
-        },
-        "interestThridYear": {
-            "type": "fixed",
-            "value": 3.72
-        },
-        "interestOtherYear": {
-            "type": "floating",
-            "value": 1.5
-        },
-        "description": "วงเงินกู้สูงสุด 100% ผ่อนนานสูงสุด 40 ปี แคมเปญพิเศษส่งท้ายปี 2566",
-        "dateModified": "9-11-2023"
-    },
-    {
         "id": "2",
         "bankId": "005",
         "interest": "mrr",
@@ -43,30 +20,30 @@
             "value": 1.5
         },
         "description": "วงเงินกู้สูงสุด 95% ของราคาประเมิน ผ่อนชำระได้นานสูงสุดถึง 30 ปี (ระยะเวลาผ่อนชำระรวมกับอายุผู้กู้แล้วต้องไม่เกิน 65 ปี)",
-        "dateModified": "9-11-2023"
+        "dateModified": "10-11-2023"
     },
     {
-        "id": "11",
-        "bankId": "010",
+        "id": "4",
+        "bankId": "002",
         "interest": "mrr",
         "interestFirstYear": {
             "type": "fixed",
-            "value": 2.69
+            "value": 2.5
         },
         "interestSecondYear": {
-            "type": "fixed",
-            "value": 2.69
+            "type": "floating",
+            "value": 3.3
         },
         "interestThridYear": {
             "type": "floating",
-            "value": 4.46
+            "value": 3.3
         },
         "interestOtherYear": {
             "type": "floating",
-            "value": 2.45
+            "value": 1.25
         },
-        "description": "วงเงินกู้สูงสุด 100% ของราคาประเมินหลักประกัน ผ่อนสบายนานสูงสุด 35 ปี",
-        "dateModified": "9-11-2023"
+        "description": "วงเงินกู้สูงสุด 100% ผ่อนนานสูงสุด 40 ปี",
+        "dateModified": "10-11-2023"
     },
     {
         "id": "3",
@@ -89,7 +66,30 @@
             "value": 2.23
         },
         "description": "ผ่อนได้ยาวสูงสุด 35 ปี วงเงินสูงสุด 50 ล้านบาท ฟรี! ค่าเบี้ยประกันอัคคีภัย-ค่าประเมินหลักทรัพย์",
-        "dateModified": "9-11-2023"
+        "dateModified": "10-11-2023"
+    },
+    {
+        "id": "11",
+        "bankId": "010",
+        "interest": "mrr",
+        "interestFirstYear": {
+            "type": "floating",
+            "value": 6.06
+        },
+        "interestSecondYear": {
+            "type": "floating",
+            "value": 5.31
+        },
+        "interestThridYear": {
+            "type": "floating",
+            "value": 5.31
+        },
+        "interestOtherYear": {
+            "type": "floating",
+            "value": 2.05
+        },
+        "description": "วงเงินกู้สูงสุด 100% ของราคาประเมินหลักประกัน ผ่อนสบายนานสูงสุด 35 ปี",
+        "dateModified": "10-11-2023"
     },
     {
         "id": "10",
@@ -97,45 +97,22 @@
         "interest": "mrr",
         "interestFirstYear": {
             "type": "fixed",
-            "value": 6.205
+            "value": 5.775
         },
         "interestSecondYear": {
             "type": "fixed",
-            "value": 6.205
+            "value": 5.775
         },
         "interestThridYear": {
             "type": "fixed",
-            "value": 6.205
+            "value": 5.775
         },
         "interestOtherYear": {
             "type": "floating",
             "value": 0.72
         },
         "description": "วงเงินกู้สูงสุด 100% ของราคาประเมินหลักประกัน ผ่อนสบายนานสูงสุด 30 ปี",
-        "dateModified": "9-11-2023"
-    },
-    {
-        "id": "8",
-        "bankId": "003",
-        "interest": "mrr",
-        "interestFirstYear": {
-            "type": "floating",
-            "value": 3.65
-        },
-        "interestSecondYear": {
-            "type": "floating",
-            "value": 3.65
-        },
-        "interestThridYear": {
-            "type": "floating",
-            "value": 3.65
-        },
-        "interestOtherYear": {
-            "type": "floating",
-            "value": 1.0
-        },
-        "description": "สินเชื่อบ้าน รีไฟแนนซ์ สำหรับลูกค้ารายได้สูง หรือ มีบ้านอยู่ในโครงการที่เป็นพันธมิตรของธนาคาร ผ่อนชำระสูงสุดไม่เกิน 30 ปี รวมอายุผู้กู้สูงสุดไม่เกิน 70 ปี",
-        "dateModified": "9-11-2023"
+        "dateModified": "10-11-2023"
     },
     {
         "id": "9",
@@ -158,7 +135,30 @@
             "value": 1.5
         },
         "description": "ฟรีค่ำสำรวจและประเมินหลักประกัน สูงสุด 100% ของมูลค่าหลักประกัน นานสูงสุด 30 ปี(เฉพาะพนักงานประจำ สูงสุด 35 ปี) รวมอายุผู้กู้สูงสุด 65 ปี",
-        "dateModified": "9-11-2023"
+        "dateModified": "10-11-2023"
+    },
+    {
+        "id": "8",
+        "bankId": "003",
+        "interest": "mrr",
+        "interestFirstYear": {
+            "type": "floating",
+            "value": 3.15
+        },
+        "interestSecondYear": {
+            "type": "floating",
+            "value": 3.15
+        },
+        "interestThridYear": {
+            "type": "floating",
+            "value": 3.15
+        },
+        "interestOtherYear": {
+            "type": "floating",
+            "value": 1.0
+        },
+        "description": "สินเชื่อบ้าน รีไฟแนนซ์ สำหรับลูกค้ารายได้สูง หรือ มีบ้านอยู่ในโครงการที่เป็นพันธมิตรของธนาคาร ผ่อนชำระสูงสุดไม่เกิน 30 ปี รวมอายุผู้กู้สูงสุดไม่เกิน 70 ปี",
+        "dateModified": "10-11-2023"
     },
     {
         "id": "1",
@@ -181,7 +181,7 @@
             "value": 0.50
         },
         "description": "วงเงินให้กู้สูงสุดไม่เกิน 2,500,000 บาทต่อรายต่อหลักประกัน ระยะเวลาผ่อน ไม่น้อยกว่า 3 ปี และไม่เกิน 40 ปี อายุผู้กู้รวมกับระยะเวลาที่ขอกู้ต้องไม่เกิน 70 ปี",
-        "dateModified": "9-11-2023"
+        "dateModified": "10-11-2023"
     },
     {
         "id": "5",
@@ -204,7 +204,7 @@
             "value": 0.750
         },
         "description": "วงเงินกู้รวมสูงสุด 110% ของราคาประเมินหลักทรัพย์ ผ่อนชำระได้นานสูงสุด 40 ปี",
-        "dateModified": "9-11-2023"
+        "dateModified": "10-11-2023"
     },
     {
         "id": "6",
@@ -227,7 +227,7 @@
             "value": 1.20
         },
         "description": "อนุมัติวงเงินไม่เกิน 100% ของราคาประเมิน ผ่อนชำระเป็นรายเดือนได้นานสูงสุด 30 ปี",
-        "dateModified": "9-11-2023"
+        "dateModified": "10-11-2023"
     },
     {
         "id": "7",
@@ -250,7 +250,7 @@
             "value": 2.86
         },
         "description": "อนุมัติวงเงินสูงสุด 100% ของราคาประเมินหลักประกัน ระยะเวลากู้สูงสุด 35 ปี (รวมอายุผู้กู้ไม่เกิน 65 ปี)",
-        "dateModified": "9-11-2023"
+        "dateModified": "10-11-2023"
     }
 
 ]
