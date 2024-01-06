@@ -142,20 +142,20 @@
         "bankId": "003",
         "interest": "mrr",
         "interestFirstYear": {
-            "type": "floating",
-            "value": 0.001
+            "type": "fixed",
+            "value": 7.30
         },
         "interestSecondYear": {
-            "type": "floating",
-            "value": 0.001
+            "type": "fixed",
+            "value": 7.30
         },
         "interestThridYear": {
-            "type": "floating",
-            "value": 0.001
+            "type": "fixed",
+            "value": 7.30
         },
         "interestOtherYear": {
-            "type": "floating",
-            "value": 0.001
+            "type": "fixed",
+            "value": 7.30
         },
         "description": "วงเงินกู้สูงสุด 100% ของราคาประเมินหลักประกัน ผ่อนชำระสูงสุดไม่เกิน 30 ปี รวมอายุผู้กู้สูงสุดไม่เกิน 70 ปี",
         "dateModified": "5-1-2024"
