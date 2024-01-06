@@ -143,19 +143,19 @@
         "interest": "mrr",
         "interestFirstYear": {
             "type": "floating",
-            "value": 0
+            "value": 0.0
         },
         "interestSecondYear": {
             "type": "floating",
-            "value": 0
+            "value": 0.0
         },
         "interestThridYear": {
             "type": "floating",
-            "value": 0
+            "value": 0.0
         },
         "interestOtherYear": {
             "type": "floating",
-            "value": 0
+            "value": 0.0
         },
         "description": "วงเงินกู้สูงสุด 100% ของราคาประเมินหลักประกัน ผ่อนชำระสูงสุดไม่เกิน 30 ปี รวมอายุผู้กู้สูงสุดไม่เกิน 70 ปี",
         "dateModified": "5-1-2024"
