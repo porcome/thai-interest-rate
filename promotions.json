@@ -1,0 +1,20 @@
+[
+  {
+    "id": "1",
+    "bankId": "002",
+    "name": "สินเชื่อบ้านกรุงไทย แคมเปญพิเศษ สวัสดีปีใหม่ ปี 2567",
+    "description": "กู้ซื้อบ้านใหม่ บ้านมือสอง และปลูกสร้างบ้าน ระยะเวลากู้สูงสุด 40 ปี",
+    "photo": "images/ktb-promo-05-01-2024.jpg",
+    "link": "https://krungthai.com/th/personal/loan/housing-loan/16",
+    "dateModified": "5-1-2024"
+  },
+  {
+    "id": "2",
+    "bankId": "006",
+    "name": "สินเชื่อบ้าน รีไฟแนนซ์",
+    "description": "รีไฟแนนซ์บ้าน-คอนโด มาอยู่กับทีทีบี ดอกเบี้ยเฉลี่ย 3 ปีแรกเริ่ม 3.50%ต่อปี",
+    "photo": "images/ttb-promo-05-01-2024.jpg",
+    "link": "https://www.ttbbank.com/th/personal/loans/home-loan/home-loan-refinance",
+    "dateModified": "5-1-2024"
+  }
+]
