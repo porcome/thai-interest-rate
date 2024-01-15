@@ -1,5 +1,28 @@
 [
     {
+        "id": "5",
+        "bankId": "007",
+        "interest": "mrr",
+        "interestFirstYear": {
+            "type": "floating",
+            "value": 3.685
+        },
+        "interestSecondYear": {
+            "type": "floating",
+            "value": 2.62
+        },
+        "interestThridYear": {
+            "type": "floating",
+            "value": 2.62
+        },
+        "interestOtherYear": {
+            "type": "floating",
+            "value": 1.25
+        },
+        "description": "อัตราดอกเบี้ยคงที่ 1.990% (6 เดือนแรก) ผ่อนชำระได้นานสูงสุด 40 ปี",
+        "dateModified": "15-1-2024"
+    },
+    {
         "id": "3",
         "bankId": "006",
         "interest": "mrr",
@@ -181,29 +204,6 @@
             "value": 1.5
         },
         "description": "ฟรีค่ำสำรวจและประเมินหลักประกัน สูงสุด 100% ของมูลค่าหลักประกัน นานสูงสุด 30 ปี(เฉพาะพนักงานประจำ สูงสุด 35 ปี) รวมอายุผู้กู้สูงสุด 65 ปี",
-        "dateModified": "5-1-2024"
-    },
-    {
-        "id": "5",
-        "bankId": "007",
-        "interest": "mrr",
-        "interestFirstYear": {
-            "type": "floating",
-            "value": 2.05
-        },
-        "interestSecondYear": {
-            "type": "floating",
-            "value": 2.05
-        },
-        "interestThridYear": {
-            "type": "floating",
-            "value": 2.05
-        },
-        "interestOtherYear": {
-            "type": "floating",
-            "value": 0.750
-        },
-        "description": "วงเงินกู้รวมสูงสุด 110% ของราคาประเมินหลักทรัพย์ ผ่อนชำระได้นานสูงสุด 40 ปี",
         "dateModified": "5-1-2024"
     },
     {
