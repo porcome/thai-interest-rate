@@ -2,8 +2,8 @@
   {
     "id": "3",
     "bankId": "007",
-    "name": "ความสุขเริ่มต้นที่บ้านของคุณ ด้วยสินเชื่อเคหะ",
-    "description": "กู้ซื้อบ้านใหม่ รีไฟแนนซ์บ้าน ยื่นกู้ภายในวันที่ 15 กุมภาพันธ์ 2567",
+    "name": "สินเชื่อเคหะ ยื่นกู้ภายในวันที่ 15 กุมภาพันธ์ 2567",
+    "description": "",
     "photo": "images/gsb-promo-15-01-2024-01.jpg",
     "link": "https://www.gsb.or.th/promotions/homeloan-q4-66",
     "dateModified": "15-1-2024"
@@ -12,7 +12,7 @@
     "id": "1",
     "bankId": "002",
     "name": "สินเชื่อบ้านกรุงไทย แคมเปญพิเศษ สวัสดีปีใหม่ ปี 2567",
-    "description": "กู้ซื้อบ้านใหม่ บ้านมือสอง และปลูกสร้างบ้าน ระยะเวลากู้สูงสุด 40 ปี",
+    "description": "",
     "photo": "images/ktb-promo-05-01-2024.jpg",
     "link": "https://krungthai.com/th/personal/loan/housing-loan/16",
     "dateModified": "5-1-2024"
@@ -20,8 +20,8 @@
   {
     "id": "2",
     "bankId": "006",
-    "name": "สินเชื่อบ้าน รีไฟแนนซ์",
-    "description": "รีไฟแนนซ์บ้าน-คอนโด มาอยู่กับทีทีบี ดอกเบี้ยเฉลี่ย 3 ปีแรกเริ่ม 3.50%ต่อปี",
+    "name": "สินเชื่อบ้าน รีไฟแนนซ์ ดอกเบี้ยเฉลี่ย 3 ปีแรกเริ่ม 3.50%ต่อปี",
+    "description": "",
     "photo": "images/ttb-promo-05-01-2024.jpg",
     "link": "https://www.ttbbank.com/th/personal/loans/home-loan/home-loan-refinance",
     "dateModified": "5-1-2024"
