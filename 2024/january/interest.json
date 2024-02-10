@@ -1,0 +1,256 @@
+[
+    {
+        "id": "5",
+        "bankId": "007",
+        "interest": "mrr",
+        "interestFirstYear": {
+            "type": "floating",
+            "value": 3.685
+        },
+        "interestSecondYear": {
+            "type": "floating",
+            "value": 2.62
+        },
+        "interestThridYear": {
+            "type": "floating",
+            "value": 2.62
+        },
+        "interestOtherYear": {
+            "type": "floating",
+            "value": 1.25
+        },
+        "description": "อัตราดอกเบี้ยคงที่ 1.990% (6 เดือนแรก) ผ่อนชำระได้นานสูงสุด 40 ปี",
+        "dateModified": "15-1-2024"
+    },
+    {
+        "id": "3",
+        "bankId": "006",
+        "interest": "mrr",
+        "interestFirstYear": {
+            "type": "floating",
+            "value": 4.23
+        },
+        "interestSecondYear": {
+            "type": "floating",
+            "value": 4.23
+        },
+        "interestThridYear": {
+            "type": "floating",
+            "value": 4.23
+        },
+        "interestOtherYear": {
+            "type": "floating",
+            "value": 2.08
+        },
+        "description": "ผ่อนได้ยาวสูงสุด 35 ปี วงเงินสูงสุด 50 ล้านบาท ฟรี! ค่าเบี้ยประกันอัคคีภัย-ค่าประเมินหลักทรัพย์",
+        "dateModified": "5-1-2024"
+    },
+    {
+        "id": "1",
+        "bankId": "008",
+        "interest": "mrr",
+        "interestFirstYear": {
+            "type": "fixed",
+            "value": 3.20
+        },
+        "interestSecondYear": {
+            "type": "fixed",
+            "value": 3.75
+        },
+        "interestThridYear": {
+            "type": "fixed",
+            "value": 4.6
+        },
+        "interestOtherYear": {
+            "type": "floating",
+            "value": 0.50
+        },
+        "description": "สินเชื่อบ้านสร้างสมใจ ปี 2567 ระยะเวลาผ่อน ไม่น้อยกว่า 3 ปี และไม่เกิน 40 ปี อายุผู้กู้รวมกับระยะเวลาที่ขอกู้ต้องไม่เกิน 70 ปี",
+        "dateModified": "5-1-2024"
+    },
+    {
+        "id": "4",
+        "bankId": "002",
+        "interest": "mrr",
+        "interestFirstYear": {
+            "type": "fixed",
+            "value": 3.42
+        },
+        "interestSecondYear": {
+            "type": "fixed",
+            "value": 3.42
+        },
+        "interestThridYear": {
+            "type": "fixed",
+            "value": 3.72
+        },
+        "interestOtherYear": {
+            "type": "floating",
+            "value": 1.5
+        },
+        "description": "วงเงินกู้สูงสุด 100% ผ่อนนานสูงสุด 40 ปี แคมเปญพิเศษส่งท้ายปี 2566",
+        "dateModified": "5-1-2024"
+    },
+    {
+        "id": "2",
+        "bankId": "005",
+        "interest": "mrr",
+        "interestFirstYear": {
+            "type": "fixed",
+            "value": 2.5
+        },
+        "interestSecondYear": {
+            "type": "fixed",
+            "value": 3.5
+        },
+        "interestThridYear": {
+            "type": "fixed",
+            "value": 4.5
+        },
+        "interestOtherYear": {
+            "type": "floating",
+            "value": 1.5
+        },
+        "description": "วงเงินกู้สูงสุด 95% ของราคาประเมิน ผ่อนชำระได้นานสูงสุดถึง 30 ปี (ระยะเวลาผ่อนชำระรวมกับอายุผู้กู้แล้วต้องไม่เกิน 65 ปี)",
+        "dateModified": "5-1-2024"
+    },
+    {
+        "id": "11",
+        "bankId": "010",
+        "interest": "mrr",
+        "interestFirstYear": {
+            "type": "fixed",
+            "value": 2.69
+        },
+        "interestSecondYear": {
+            "type": "fixed",
+            "value": 2.69
+        },
+        "interestThridYear": {
+            "type": "floating",
+            "value": 4.46
+        },
+        "interestOtherYear": {
+            "type": "floating",
+            "value": 2.45
+        },
+        "description": "วงเงินกู้สูงสุด 100% ของราคาประเมินหลักประกัน ผ่อนสบายนานสูงสุด 35 ปี",
+        "dateModified": "5-1-2024"
+    },
+    {
+        "id": "10",
+        "bankId": "004",
+        "interest": "mrr",
+        "interestFirstYear": {
+            "type": "fixed",
+            "value": 6.205
+        },
+        "interestSecondYear": {
+            "type": "fixed",
+            "value": 6.205
+        },
+        "interestThridYear": {
+            "type": "fixed",
+            "value": 6.205
+        },
+        "interestOtherYear": {
+            "type": "floating",
+            "value": 0.72
+        },
+        "description": "วงเงินกู้สูงสุด 100% ของราคาประเมินหลักประกัน ผ่อนสบายนานสูงสุด 30 ปี",
+        "dateModified": "5-1-2024"
+    },
+    {
+        "id": "8",
+        "bankId": "003",
+        "interest": "mrr",
+        "interestFirstYear": {
+            "type": "fixed",
+            "value": 7.30
+        },
+        "interestSecondYear": {
+            "type": "fixed",
+            "value": 7.30
+        },
+        "interestThridYear": {
+            "type": "fixed",
+            "value": 7.30
+        },
+        "interestOtherYear": {
+            "type": "fixed",
+            "value": 7.30
+        },
+        "description": "วงเงินกู้สูงสุด 100% ของราคาประเมินหลักประกัน ผ่อนชำระสูงสุดไม่เกิน 30 ปี รวมอายุผู้กู้สูงสุดไม่เกิน 70 ปี",
+        "dateModified": "5-1-2024"
+    },
+    {
+        "id": "9",
+        "bankId": "001",
+        "interest": "mrr",
+        "interestFirstYear": {
+            "type": "floating",
+            "value": 4.45
+        },
+        "interestSecondYear": {
+            "type": "floating",
+            "value": 2.45
+        },
+        "interestThridYear": {
+            "type": "floating",
+            "value": 2.45
+        },
+        "interestOtherYear": {
+            "type": "floating",
+            "value": 1.5
+        },
+        "description": "ฟรีค่ำสำรวจและประเมินหลักประกัน สูงสุด 100% ของมูลค่าหลักประกัน นานสูงสุด 30 ปี(เฉพาะพนักงานประจำ สูงสุด 35 ปี) รวมอายุผู้กู้สูงสุด 65 ปี",
+        "dateModified": "5-1-2024"
+    },
+    {
+        "id": "6",
+        "bankId": "009",
+        "interest": "mrr",
+        "interestFirstYear": {
+            "type": "floating",
+            "value": 4.46
+        },
+        "interestSecondYear": {
+            "type": "floating",
+            "value": 4.46
+        },
+        "interestThridYear": {
+            "type": "floating",
+            "value": 4.46
+        },
+        "interestOtherYear": {
+            "type": "floating",
+            "value": 1.20
+        },
+        "description": "อนุมัติวงเงินไม่เกิน 100% ของราคาประเมิน ผ่อนชำระเป็นรายเดือนได้นานสูงสุด 30 ปี",
+        "dateModified": "5-1-2024"
+    },
+    {
+        "id": "7",
+        "bankId": "011",
+        "interest": "mrr",
+        "interestFirstYear": {
+            "type": "floating",
+            "value": 5.25
+        },
+        "interestSecondYear": {
+            "type": "floating",
+            "value": 5.25
+        },
+        "interestThridYear": {
+            "type": "floating",
+            "value": 5.25
+        },
+        "interestOtherYear": {
+            "type": "floating",
+            "value": 2.86
+        },
+        "description": "อนุมัติวงเงินสูงสุด 100% ของราคาประเมินหลักประกัน ระยะเวลากู้สูงสุด 35 ปี (รวมอายุผู้กู้ไม่เกิน 65 ปี)",
+        "dateModified": "5-1-2024"
+    }
+
+]
