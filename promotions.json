@@ -1,12 +1,39 @@
 [
   {
+    "id": "5",
+    "bankId": "004",
+    "name": "สินเชื่อบ้าน รีไฟแนนซ์สินเชื่อบ้านมาที่ SCB ผ่อนเท่าเดิม กู้เพิ่มได้ ชีวิตเบาขึ้น",
+    "description": "",
+    "photo": "images/scb-promo-24-02-2024.jpg",
+    "link": "https://www.scb.co.th/th/personal-banking/loans/home-loans/refinance-loan.html",
+    "dateModified": "24-2-2024"
+  },
+  {
+    "id": "6",
+    "bankId": "008",
+    "name": "โครงการบ้าน ธอส. แสนสุข ปี 2567",
+    "description": "",
+    "photo": "images/ghb-promo-24-02-2024.jpg",
+    "link": "https://www.ghbank.co.th/product-detail/ghbank-sansook-2567",
+    "dateModified": "5-1-2024"
+  },
+  {
+    "id": "4",
+    "bankId": "003",
+    "name": "สินเชื่อบ้าน รีไฟแนนซ์ สมัครง่าย ลดภาระ ได้วงเงินเพิ่ม",
+    "description": "",
+    "photo": "images/kb-promo-24-02-2024.jpg",
+    "link": "https://www.kasikornbank.com/th/personal/Loan/HomeLoan/Pages/HomeLoanRefinance.aspx",
+    "dateModified": "24-2-2024"
+  },
+  {
     "id": "3",
     "bankId": "007",
-    "name": "สินเชื่อเคหะ ยื่นกู้ภายในวันที่ 15 กุมภาพันธ์ 2567",
+    "name": "เติมสุข วาดฝัน กับบ้านที่ใช่ ด้วยสินเชื่อเคหะ",
     "description": "",
-    "photo": "images/gsb-promo-15-01-2024-01.jpg",
-    "link": "https://www.gsb.or.th/promotions/homeloan-q4-66",
-    "dateModified": "15-1-2024"
+    "photo": "images/gsb-promo-24-02-2024.jpg",
+    "link": "https://www.gsb.or.th/promotions/homeloan67",
+    "dateModified": "24-2-2024"
   },
   {
     "id": "1",
